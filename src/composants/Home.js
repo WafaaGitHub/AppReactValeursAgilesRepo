@@ -1,5 +1,5 @@
 import React from 'react'
-import valeursAgiles from '../images/ValeursAgiles.jpg';
+import valeursAgiles from '../images/valeursagiles.jpg';
 import { Link } from 'react-router-dom';
 
 function Home() {

@@ -12,6 +12,7 @@ function App() {
       <header className="App-header">
         <Routes>
           <Route path="/" exact element={<Home />}></Route>
+          <Route path="AppReactValeursAgilesRepo" exact element={<Home />}></Route>
           <Route path="valeursAgiles" element={<ValeursAgiles />}></Route>     
         </Routes>
       </header>
