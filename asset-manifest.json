@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AppReactValeursAgilesRepo/static/css/main.db62923b.css",
-    "main.js": "/AppReactValeursAgilesRepo/static/js/main.e2c91849.js",
+    "main.js": "/AppReactValeursAgilesRepo/static/js/main.72d45eb8.js",
     "static/js/453.cdc4d696.chunk.js": "/AppReactValeursAgilesRepo/static/js/453.cdc4d696.chunk.js",
-    "static/media/ValeursAgiles.jpg": "/AppReactValeursAgilesRepo/static/media/ValeursAgiles.289ea19773281f32956e.jpg",
+    "static/media/valeursagiles.jpg": "/AppReactValeursAgilesRepo/static/media/valeursagiles.289ea19773281f32956e.jpg",
     "index.html": "/AppReactValeursAgilesRepo/index.html",
     "main.db62923b.css.map": "/AppReactValeursAgilesRepo/static/css/main.db62923b.css.map",
-    "main.e2c91849.js.map": "/AppReactValeursAgilesRepo/static/js/main.e2c91849.js.map",
+    "main.72d45eb8.js.map": "/AppReactValeursAgilesRepo/static/js/main.72d45eb8.js.map",
     "453.cdc4d696.chunk.js.map": "/AppReactValeursAgilesRepo/static/js/453.cdc4d696.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.e2c91849.js"
+    "static/js/main.72d45eb8.js"
   ]
 }
