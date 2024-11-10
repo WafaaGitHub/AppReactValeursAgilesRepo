@@ -10,15 +10,15 @@ function App() {
     <div className="App">
       <Router>
       <header className="App-header">
-        <Routes>
+       /* <Routes>
           <Route path="/" exact element={<Home />}></Route>
           <Route path="AppReactValeursAgilesRepo" exact element={<Home />}></Route>
           <Route path="valeursAgiles" element={<ValeursAgiles />}></Route>     
-        </Routes>
+        </Routes> */
       </header>
       </Router>
     </div>
-  //test fetch 
+
    
   );
 }
